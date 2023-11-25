@@ -1,0 +1,37 @@
+@media(max-width:700px)
+{
+
+    #header
+    {
+        color:green;
+        margin-left: -300px;
+        transition-duration: 1s;
+    }
+
+    #main {
+        margin-left: 0px;
+        font-size: small;
+        color:rgb(11, 11, 11);
+        transition-duration: 1s;
+      }
+      #home
+      {
+        display: none;
+      }
+      #closenav
+      {
+        display: block;
+        cursor: pointer;
+      }
+      #navbar2
+      {
+        display: block;
+      }
+    
+      .projectdiv
+      {
+        height: auto;
+      }
+
+
+}
